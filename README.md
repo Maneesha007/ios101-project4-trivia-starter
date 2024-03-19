@@ -28,7 +28,11 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-
+ <div>
+    <a href="https://www.loom.com/share/fdf33917b23a4f77b95a645f6e43baeb">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/fdf33917b23a4f77b95a645f6e43baeb-with-play.gif">
+    </a>
+  </div>
 
 ## Notes
 
@@ -36,7 +40,7 @@ Challenges encountered while building the app.
 
 - Parsing logic for the APIResponse, understanding JSON structure and Using snake_case decoding strategy
 - Understanding NSAttributedString class, which provides a method for decoding HTML entities Concept
-- decoding the reason for  "Index out of range" Error, which is currQuestionIndex is being incremented beyond the number of questions available 
+- decoding the reason for  "Index out of range" Error, which is currQuestionIndex being incremented beyond the number of questions available 
   in the questions array.
 
 
